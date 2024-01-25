@@ -1,6 +1,5 @@
 | folder_name           | product code | product amount |
 |------------------------|--------------|----------------|
-|total| 239|
 | among_us               | AMUS         | 1              |
 | attack_on_titan        | AOTT         | 1              |
 | batman                 | BMAN         | 2              |
@@ -32,3 +31,5 @@
 | spiderman              | SPDR         | 1              |
 | superman               | SMAN         | 1              |
 | venom                  | VNOM         | 1              |
+
+TOTAL - 239
