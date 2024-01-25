@@ -1,5 +1,6 @@
 | folder_name           | product code | product amount |
 |------------------------|--------------|----------------|
+|total| 239|
 | among_us               | AMUS         | 1              |
 | attack_on_titan        | AOTT         | 1              |
 | batman                 | BMAN         | 2              |
